@@ -12895,10 +12895,12 @@ footer h5 {
       center/cover;
   }
 }
-@media screen and (min-width: 1025px) {
+@media screen and (min-width:767px) {
   .proizvod__slider__wrapper {
     overflow: visible !important;
   }
+}
+@media screen and (min-width: 1025px) {
   .hero {
     background: url(../img/graffiti-wall-art-oil-painting-abstract-background@3x.jpg)
       no-repeat center center/cover;
