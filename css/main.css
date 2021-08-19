@@ -12896,6 +12896,9 @@ footer h5 {
   }
 }
 @media screen and (min-width: 1025px) {
+  .proizvod__slider__wrapper {
+    overflow: visible !important;
+  }
   .hero {
     background: url(../img/graffiti-wall-art-oil-painting-abstract-background@3x.jpg)
       no-repeat center center/cover;
